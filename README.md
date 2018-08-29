@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=j1I63wGcvU4.
 ## Usage:
 
 ```
-git clone https://github.com/Xunius/setupi3.git && cd setupi3
+git clone https://github.com/bookercodes/setupi3.git && cd setupi3
 sudo ./setupi3.sh
 ```
 
